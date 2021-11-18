@@ -1,3 +1,5 @@
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +7,36 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-inline {
+  width: 50% !important;
+}
+
+.form-group {
+  width: 30% !important;
+}
+
+.input-group {
+  height: 25px !important;
+  margin: 0px !important;
+  
+}
+
+.form-control {
+  height: 25px !important;
+  margin: -5px !important;
+}
+
+span.input-group-addon {
+  height: 50px !important;
+}
+
+
+
